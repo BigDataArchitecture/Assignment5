@@ -14,7 +14,7 @@ Summarization NLP API: https://yto0kae7xb.execute-api.us-east-1.amazonaws.com/de
   
 Sample: {"context":"Another Boston April cold front brought a round of scattered to numerous showers and thunderstorms on Saturday April 21 Some storms became severe and produced mainly large hail."}
 
-Output: "answer": "<pad> another Boston April cold front brought a round of scattered"
+Output: "answer": "<pad> another Boston April cold front brought a round of scattered showers"
   
 Streamlit Application: https://share.streamlit.io/shahparth0007/maritime_streamlit/main/streamlit.py
   
