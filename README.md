@@ -25,3 +25,8 @@ Use any of the following Usernames and password:
   
 User Manual for using our application: https://docs.google.com/document/d/10ZVVQwX3u5E_jHfZ6pmfwD1nTQxtvwjWj-J8iUCkZrk/edit?usp=sharing
   
+Detail Codelab: 
+  
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
+
+Contribution: Parth: 33.33% Sree: 33.33% Ankana: 33.33%
