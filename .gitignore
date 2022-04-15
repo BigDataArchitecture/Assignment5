@@ -8,6 +8,12 @@ __pycache__/
 
 serverless-bert/model
 
+serverless-ner/model
+
+serverless-summarization/model
+
+serverless-ner/tensorflow-2.4.1-py3-none-any.whl
+
 serverless-bert/venv
 # Distribution / packaging
 .Python

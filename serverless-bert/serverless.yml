@@ -10,8 +10,11 @@ provider:
 
 functions:
   questionanswering:
-    image: 430731586545.dkr.ecr.us-east-1.amazonaws.com/bert-lambda@sha256:4687d809a47df0776fdfac3254136d93bb44c18a5f51af2ed6f99f34273f813a #ecr url
+    image: 430731586545.dkr.ecr.us-east-1.amazonaws.com/bert-summarization:latest #ecr url
     events:
       - http:
           path: qa # http path
           method: post # http method
+
+
+          
