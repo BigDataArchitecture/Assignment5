@@ -25,6 +25,8 @@ Use any of the following Usernames and password:
   
 User Manual for using our application: https://docs.google.com/document/d/10ZVVQwX3u5E_jHfZ6pmfwD1nTQxtvwjWj-J8iUCkZrk/edit?usp=sharing
   
+We have also create a live dashborad for our nowcasting API: https://datastudio.google.com/s/sX6SRSFbOEI
+ 
 Detail Codelab: 
   
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
